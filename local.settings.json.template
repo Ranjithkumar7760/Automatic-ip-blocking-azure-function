@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "WORKSPACE_ID": "<your-log-analytics-workspace-id>",
+    "SUBSCRIPTION_ID": "<your-azure-subscription-id>",
+    "RESOURCE_GROUP": "rg-malicious-ip-blocker",
+    "APP_SERVICE_NAME": "<your-app-service-name>",
+    "ABUSEIPDB_API_KEY": "<your-abuseipdb-api-key>"
+  }
+}
