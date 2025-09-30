@@ -385,7 +385,7 @@ func run blockMaliciousIps --content '{"isPastDue": false}'
 
 ---
 
-# 📞 Support
+#  Support
 
 For issues and questions:
 1. **Check logs** in Application Insights
@@ -396,5 +396,3 @@ For issues and questions:
 ---
 
 **Project Status**: ✅ Production Ready  
-**Last Updated**: 2024  
-**Version**: 1.0.0
